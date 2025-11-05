@@ -6,7 +6,7 @@ This project predicts a Student Performance Index (SPI) using a pre-trained Mach
 It analyzes student behavior and learning parameters such as study hours, participation, sleep patterns, and previous marks to estimate performance levels.
 
 # Note : I Have Already Trained the ML Model 
-[Visit my GOOGLE COLAB NOTEBOOK](https://colab.research.google.com/drive/1cY9lwtXVo7Gdx2SVzYxMuAFHu4HDtk34?usp=sharing)
+[Visit my GOOGLE COLAB NOTEBOOK](https://colab.research.google.com/drive/1dIhBx__1yuSJ5Gl0Y_9EgT-y375zarH8?usp=sharing)
 
 🚀 Features
 
