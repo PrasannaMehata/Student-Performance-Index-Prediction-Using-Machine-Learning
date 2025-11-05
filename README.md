@@ -117,7 +117,7 @@ if st.button("Predict Performance Index"):
 st.caption("💡 Tip: Ensure your model file student_performance_model.joblib is in the same directory as this app.")
 
 4) Run the app:
-streamlit run app.py  # (here use --> newpy.py)
+streamlit run app.py  
 
 
 Then open the displayed local URL (e.g. http://localhost:8501) in your browser.
