@@ -5,6 +5,9 @@
 This project predicts a Student Performance Index (SPI) using a pre-trained Machine Learning model.
 It analyzes student behavior and learning parameters such as study hours, participation, sleep patterns, and previous marks to estimate performance levels.
 
+# Note : I Have Already Trained the ML Model 
+[Visit my GOOGLE COLAB NOTEBOOK](https://colab.research.google.com/drive/1cY9lwtXVo7Gdx2SVzYxMuAFHu4HDtk34?usp=sharing)
+
 🚀 Features
 
 Load and use a pre-trained model with joblib
@@ -112,8 +115,8 @@ if st.button("Predict Performance Index"):
 
 st.caption("💡 Tip: Ensure your model file student_performance_model.joblib is in the same directory as this app.")
 
-Run the app:
-streamlit run app.py
+4) Run the app:
+streamlit run app.py  # (here use --> newpy.py)
 
 
 Then open the displayed local URL (e.g. http://localhost:8501) in your browser.
